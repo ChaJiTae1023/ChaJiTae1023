@@ -1,6 +1,6 @@
 <h3 align="center">Hi there👋</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=ChaJiTae&fontSize=90&animation=twinkling&fontColor=008080&fontAlign=50&fontAlignY=40&desc=WEB%20MASTER" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=Cha%20Ji%20Tae&fontSize=90&animation=twinkling&fontColor=008080&fontAlign=50&fontAlignY=40&desc=WEB%20MASTER" />
 
 <br>
 
