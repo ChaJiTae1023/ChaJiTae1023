@@ -93,11 +93,6 @@
 
 <br/>  
 
-
-## Github Stats  
-![Profile views counter](https://komarev.com/ghpvc/?username=ChaJiTae1023&&style=flat-square)  
-  
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChaJiTae1023&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <br/>  
