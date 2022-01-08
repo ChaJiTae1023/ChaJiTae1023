@@ -60,5 +60,4 @@
 
 <br/>  
 
-  ![cwadven's github stats](https://github-readme-stats.vercel.app/api?username=ChaJiTae1023&show_icons=true&count_private=true&theme=buefy)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaJiTae1023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![ChaJiTae1023's github stats](https://github-readme-stats.vercel.app/api?username=ChaJiTae1023&show_icons=true&count_private=true&theme=vue-dark)
