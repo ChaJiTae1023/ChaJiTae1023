@@ -59,7 +59,7 @@
   
 
 <br/>  
+  
+  ![ChaJiTae1023's github stats](https://github-readme-stats.vercel.app/api?username=ChaJiTae1023&show_icons=true&count_private=true&theme=react)
 
-  ![ChaJiTae1023's github stats](https://github-readme-stats.vercel.app/api?username=ChaJiTae1023&show_icons=true&count_private=true&theme=vue-dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaJiTae1023&layout=compact&theme=vue-dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaJiTae1023&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaJiTae1023&layout=compact&theme=react)
