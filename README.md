@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=Cha%20Ji%20Tae&fontSize=90&animation=twinkling&fontColor=008080&fontAlign=50&fontAlignY=40" />
+<img src="./img/hello.gif" />
+
+<br><br><br>
 
 ### 👋My name is Cha Ji Tae
 - 🔭I'm currently studying the Frontend field.  
