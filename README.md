@@ -7,8 +7,6 @@
 - ⭐My goal is to become a full stack developer.  
 - ✏️I'm majoring in computer.software engineering. 
 
-<a href="https://www.notion.so/ideal-jitae/574437ec9dd5413db99572d6afda0cd3" target="_blank"><img src="https://img.shields.io/badge/Profile-f9af00?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-
 <br>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="78" height="78" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="78" height="78" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="78" height="78" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="78" height="78" /></div>
