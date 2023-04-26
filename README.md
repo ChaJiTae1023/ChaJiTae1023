@@ -1,7 +1,5 @@
 <img src="./img/hello.gif" />
 
-<br><br><br>
-
 ### 👋My name is Cha Ji Tae
 - 🔭I'm currently studying the Frontend field.  
 - ⭐My goal is to become a full stack developer.  
